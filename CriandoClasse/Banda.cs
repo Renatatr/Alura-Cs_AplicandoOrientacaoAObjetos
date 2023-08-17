@@ -3,7 +3,6 @@ class Banda
     public Banda(string nome)
     {
         Nome = nome;
-        Nome = nome;
     }
     
     private List<Album> albuns = new List<Album>();

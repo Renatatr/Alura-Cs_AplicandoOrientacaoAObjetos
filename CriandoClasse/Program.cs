@@ -1,7 +1,8 @@
 ﻿Album albumOzzy = new Album("No more tears");
 Banda ozzy = new Banda("Ozzy");
+Cantor cantor = new Cantor("ozzy", 345);
 
-Musica musica1 = new Musica(ozzy, "Mama, I'm Coming Home")
+Musica musica1 = new Musica(ozzy, "Mama, I'm Coming Home", cantor)
 {
     Duracao = 252,
     Disponivel = true,
@@ -11,7 +12,7 @@ Genero genero1 = new Genero();
 musica1.Genero = genero1;
 genero1.NomeGenero = "rock";
 
-Musica musica2 = new Musica(ozzy, "Desire")
+Musica musica2 = new Musica(ozzy, "Desire", cantor)
 {
     Duracao = 500,
     Disponivel = false,
