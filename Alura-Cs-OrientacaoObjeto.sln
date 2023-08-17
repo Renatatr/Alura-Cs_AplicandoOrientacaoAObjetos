@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoClasse", "CriandoCla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncaoLambda", "FuncaoLambda\FuncaoLambda.csproj", "{B9662048-1771-43CB-B728-12C5785D92CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpisodiosPodcast", "EpisodiosPodcast\EpisodiosPodcast.csproj", "{D1B7E35B-F828-48E9-ADDD-4D455FF894BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B9662048-1771-43CB-B728-12C5785D92CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9662048-1771-43CB-B728-12C5785D92CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9662048-1771-43CB-B728-12C5785D92CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B7E35B-F828-48E9-ADDD-4D455FF894BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B7E35B-F828-48E9-ADDD-4D455FF894BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B7E35B-F828-48E9-ADDD-4D455FF894BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B7E35B-F828-48E9-ADDD-4D455FF894BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
